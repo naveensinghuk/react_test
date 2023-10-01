@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_test/static/css/main.03687666.css",
-    "main.js": "/react_test/static/js/main.7451c693.js",
+    "main.css": "/react_test/static/css/main.ddec6821.css",
+    "main.js": "/react_test/static/js/main.ff84fc26.js",
     "static/media/4.jpg": "/react_test/static/media/4.eeef1735d4dfa7e2ed13.jpg",
     "static/media/6.jpg": "/react_test/static/media/6.d5072bbb7709ac3f128b.jpg",
     "static/media/5.jpg": "/react_test/static/media/5.d520b490eb815bb658eb.jpg",
@@ -64,11 +64,11 @@
     "static/media/roboto-greek-ext-300-normal.woff": "/react_test/static/media/roboto-greek-ext-300-normal.392a45a84c081c4b412d.woff",
     "static/media/roboto-greek-ext-400-normal.woff": "/react_test/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/react_test/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
-    "main.03687666.css.map": "/react_test/static/css/main.03687666.css.map",
-    "main.7451c693.js.map": "/react_test/static/js/main.7451c693.js.map"
+    "main.ddec6821.css.map": "/react_test/static/css/main.ddec6821.css.map",
+    "main.ff84fc26.js.map": "/react_test/static/js/main.ff84fc26.js.map"
   },
   "entrypoints": [
-    "static/css/main.03687666.css",
-    "static/js/main.7451c693.js"
+    "static/css/main.ddec6821.css",
+    "static/js/main.ff84fc26.js"
   ]
 }
